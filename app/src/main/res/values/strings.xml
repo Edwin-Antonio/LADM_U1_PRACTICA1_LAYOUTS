@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LADM_U1_PRACTICA1_LAYOUTS</string>
+    <array name="menuppal">
+        <item>Activity Principal</item>
+        <item>Activity 2</item>
+        <item>Activity 3</item>
+        <item>Activity 4</item>
+        <item>Salir</item>
+    </array>
+</resources>
